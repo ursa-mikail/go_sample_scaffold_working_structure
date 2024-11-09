@@ -1,6 +1,6 @@
 This is a demo for golang.
 The dir structure is:
-<code>
+<pre>
 .
 ├── go.mod		#	package declare and if there is dependencies, i.e. `require github.com/.../... v...`
 ├── lib
@@ -10,5 +10,5 @@ The dir structure is:
 └── util
     └── util_00.go
 
-</code>
+</pre>
 
